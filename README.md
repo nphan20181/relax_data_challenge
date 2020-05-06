@@ -4,4 +4,4 @@ __Relax Inc.__ makes productivity and project management software that's popular
 
 This repository contain Relax's data science challenge and possible solution.
 1. [Data Challenge](https://github.com/nphan20181/relax_data_challenge/blob/master/relax_data_science_challenge.pdf)
-2. Answer to Data Challenge
+2. [Answer to Data Challenge](https://github.com/nphan20181/relax_data_challenge/blob/master/relax_data_challenge.ipynb)
